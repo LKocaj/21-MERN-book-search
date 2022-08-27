@@ -59,6 +59,13 @@ This week, you’ll take a fully functioning Google Books API search engine buil
 
 ### Built With
 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+<br>
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+<br>
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<br>
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -203,14 +210,13 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Email: Lawrencecaj@gmail.com
 <br>
+<br>
 Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 <br>
-Project Link: https://github.com/LKocaj/
+<br>
+Project Link: https://github.com/LKocaj/21-MERN-book-search
+<br>
+<br>
+Heroku : https://mern-book-search-lkocaj.herokuapp.com/ | https://git.heroku.com/mern-book-search-lkocaj.git
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-https://github.com/Ileriayo/markdown-badges
-
-
-
-https://github.com/LKocaj/21-MERN-book-search
