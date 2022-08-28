@@ -217,7 +217,7 @@ Youtube: https://www.youtube.com/channel/UCT9VNw7nEAY0jqPlHM6zlSw
 Project Link: https://github.com/LKocaj/21-MERN-book-search
 <br>
 <br>
-Heroku : https://mern-book-search-lkocaj.herokuapp.com/ | https://git.heroku.com/mern-book-search-lkocaj.git
+Heroku : https://mern-book-search-lkocaj.herokuapp.com/ 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
