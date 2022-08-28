@@ -4,7 +4,7 @@
   <h1 align="center">21. MERN Challenge: Book Search Engine</h1>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    A book search engine using MERN. One day you'll be able to sign in
     <br />
     <a href="https://github.com/LKocaj/21-MERN-book-search"><strong>git for now</strong></a>
   </p>
